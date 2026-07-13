@@ -1,10 +1,10 @@
-# <div align="center">Hi 👋 I'm Michael</div>
+# <div align="center">Hi 👋 I'm Michael John Revilla</div>
 
 <div align="center">
 
-### AI Engineer • Backend Developer • Cloud Enthusiast
+### Full Stack Developer • React • Next.js • Node.js • TypeScript
 
-*Building intelligent systems that solve real-world problems.*
+*Building modern, scalable web applications and solving real business problems.*
 
 </div>
 
@@ -12,61 +12,73 @@
 
 ## 🚀 About Me
 
-I'm a backend-focused AI engineer passionate about building production-ready applications with modern AI technologies.
+I'm a Full Stack Developer with experience building and maintaining production web applications using modern JavaScript technologies.
 
-* 🤖 Building AI-powered applications and automation tools
-* ⚡ Developing scalable APIs with FastAPI
-* 🧠 Exploring LLMs, RAG, OCR, and Document Intelligence
-* 🐳 Deploying applications using Docker & Kubernetes
-* ☁️ Working with AWS cloud services
-* 🌱 Always learning new technologies and improving existing systems
+I currently work on a live production marketplace platform where I help modernize features while maintaining compatibility with an existing system. My work involves developing new features, integrating APIs, improving performance, debugging production issues, and delivering responsive user experiences.
+
+I enjoy working across both frontend and backend, taking ideas from concept to production while writing clean, maintainable code.
+
+---
+
+## 💼 What I Work With
+
+- ⚛️ React & Next.js applications
+- 🚀 Node.js & Express APIs
+- 🗄️ PostgreSQL, Supabase & MySQL
+- 🔗 REST API integrations
+- 🎨 Responsive UI development
+- ☁️ Vercel deployments
+- 🤖 AI-assisted development using Cursor, Claude & ChatGPT
+- 🔧 Production debugging & performance optimization
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages
+### Frontend
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-### Backend & AI
+### Backend
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge\&logo=openai\&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
-### DevOps & Cloud
+### Database
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge\&logo=kubernetes\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=FF9900)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 📌 Featured Projects
 
-> Replace these with your repositories once you've chosen which ones you want to showcase.
+### 🛒 Production Marketplace Platform
+Contributed to a live production marketplace by implementing modern features, API integrations, responsive UI improvements, production debugging, and ongoing system enhancements while maintaining compatibility with the existing platform.
 
-### 📄 AI Resume Analyzer
+### 💬 Real-Time Messaging System
+Built and improved messaging functionality including attachments, pagination, user blocking, and a modern chat experience.
 
-Analyze resumes using OCR and LLMs to extract insights and generate recommendations.
+### 💳 Subscription & Billing Features
+Implemented Stripe subscription workflows, gated registration, profile completion, daily posting limits, and automated refund handling.
 
-### 💬 AI Telegram Assistant
-
-An intelligent Telegram bot powered by LLMs for automation and conversational workflows.
-
-### 📚 Retrieval-Augmented Generation (RAG)
-
-Knowledge retrieval system that combines vector search with language models for accurate answers.
-
-### ⚙️ Backend API Services
-
-Production-ready REST APIs built with FastAPI, PostgreSQL, Redis, and Docker.
+### 📊 Dashboard & Internal Tools
+Developed responsive dashboards, admin interfaces, and business tools with a focus on usability, maintainability, and performance.
 
 ---
 
@@ -74,11 +86,11 @@ Production-ready REST APIs built with FastAPI, PostgreSQL, Redis, and Docker.
 
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=arukenimon\&show_icons=true\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=arukenimon&show_icons=true&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=arukenimon\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=arukenimon&theme=tokyonight&hide_border=true)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arukenimon\&layout=compact\&theme=tokyonight\&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arukenimon&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -86,22 +98,25 @@ Production-ready REST APIs built with FastAPI, PostgreSQL, Redis, and Docker.
 
 ## 🎯 Current Focus
 
-* 🚀 Building production AI systems
-* 🧠 Local LLM inference
-* 📄 OCR & Document Intelligence
-* ☁️ Cloud-native deployments
-* 🔍 Retrieval-Augmented Generation (RAG)
+- 🚀 Building production-ready web applications
+- ⚛️ React & Next.js development
+- 🔗 API integrations and backend services
+- 📱 Responsive UI & user experience
+- 🤖 Leveraging AI tools to improve development workflows
+- ⚡ Performance optimization and scalable architecture
 
 ---
 
 ## 💡 Philosophy
 
-> *"Write code that scales, automate what repeats, and build tools that genuinely help people."*
+> *"Build solutions that are maintainable, scalable, and deliver real value to users."*
 
 ---
 
 ## 🤝 Let's Connect
 
-If you're interested in AI, backend engineering, or open-source collaboration, feel free to connect!
+I'm always interested in collaborating on web applications, SaaS products, AI-assisted development, and challenging full stack projects.
+
+🌐 **Portfolio:** https://mjrevportfolio.vercel.app/
 
 ⭐ Thanks for visiting my profile!
