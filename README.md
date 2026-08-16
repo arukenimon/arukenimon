@@ -133,6 +133,20 @@ I'm currently deepening my experience with:
 
 ---
 
+## 📈 GitHub Stats
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=arukenimon&show_icons=true&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=arukenimon&theme=tokyonight&hide_border=true)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=arukenimon&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
 ## 🤝 Connect
 
 **Portfolio:** https://mjrevportfolio.vercel.app/
