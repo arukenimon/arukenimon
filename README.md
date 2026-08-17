@@ -1,135 +1,84 @@
-# Hi 👋 I'm Michael John Revilla
+# <div align="center">Hi 👋 I'm Michael John Revilla</div>
 
-### Full-Stack Developer | TypeScript • Next.js • React • Node.js • PostgreSQL
+<div align="center">
 
-I build and maintain production web applications, APIs, integrations, and internal tools. My professional software development experience began in 2025, alongside independent and open-source development under this GitHub account.
+### Full Stack Developer • React • Next.js • Node.js • TypeScript
 
-My strongest areas are TypeScript/JavaScript, Next.js, React, Node.js, PostgreSQL/Supabase, REST APIs, third-party integrations, and production debugging.
+*Building modern, scalable web applications and solving real business problems.*
 
----
-
-## 💼 Professional Experience
-
-### SUpost — Full-Stack Developer
-**July 2025 – July 2026 | Full-time**
-
-Worked on a production marketplace serving 100K+ users annually.
-
-- Helped migrate the platform toward Next.js and Supabase/PostgreSQL
-- Built and maintained frontend and backend features
-- Worked with Stripe and PayPal payment integrations
-- Developed messaging and marketplace functionality
-- Implemented authentication and user-facing workflows
-- Debugged production issues and improved existing systems
-- Worked with CI/CD and production deployments
-
-### 888Group — Full-Stack Developer
-**June 2026 – August 2026 | Contract / Project-based**
-
-Worked with another developer on a production buyer/deal commitment platform supporting approximately 40–50 buying partners.
-
-- Built deal, commitment, pricing, cancellation, and administrative workflows
-- Worked with PostgreSQL transactions and row-level locking for concurrency-sensitive operations
-- Implemented authentication and role-based access control
-- Developed REST API functionality and database migrations
-- Worked on production deployment and ongoing fixes
-
-### AutoBlitz — Freelance Full-Stack Developer
-**2025 – 2026 | Project-based**
-
-Built business automation tools including:
-
-- SMS marketing/blasting functionality
-- Meta/Facebook chatbot automation
-- Backend integrations and automated workflows
+</div>
 
 ---
 
-## 🚀 Open-Source / Personal Development
+## 🚀 About Me
 
-### Text Blasting
+I'm a Full Stack Developer with experience building and maintaining production web applications using modern JavaScript technologies.
 
-An SMS messaging application that I actively develop and maintain under this GitHub account.
+I currently work on a live production marketplace platform where I help modernize features while maintaining compatibility with an existing system. My work involves developing new features, integrating APIs, improving performance, debugging production issues, and delivering responsive user experiences.
 
-**Repository:** https://github.com/arukenimon/text-blasting
-
-This project reflects my own ongoing development work and commit history rather than a one-time portfolio upload.
-
-Areas I've worked on include:
-
-- SMS/messaging workflows
-- Backend/API development
-- Database integration
-- Authentication
-- Application architecture
-- Deployment and production-oriented improvements
+I enjoy working across both frontend and backend, taking ideas from concept to production while writing clean, maintainable code.
 
 ---
 
-## 🛠 Core Technologies
+## 💼 What I Work With
 
-**Frontend**
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- Tailwind CSS
-- HTML/CSS
-
-**Backend**
-- Node.js
-- Express
-- REST APIs
-- PHP
-
-**Data**
-- PostgreSQL
-- Supabase
-- MySQL
-
-**Integrations & Infrastructure**
-- Stripe
-- PayPal
-- SMS/messaging APIs
-- Git / GitHub
-- GitHub Actions / CI/CD
-- Vercel
-
-**AI-Assisted Development**
-- Claude / Claude Code
-- Cursor
-- ChatGPT
-
-I use AI development tools as part of my workflow for research, implementation, debugging, and review, while verifying and understanding the code and technical decisions myself.
+- ⚛️ React & Next.js applications
+- 🚀 Node.js & Express APIs
+- 🗄️ PostgreSQL, Supabase & MySQL
+- 🔗 REST API integrations
+- 🎨 Responsive UI development
+- ☁️ Vercel deployments
+- 🤖 AI-assisted development using Cursor, Claude & ChatGPT
+- 🔧 Production debugging & performance optimization
 
 ---
 
-## 🔎 How I Work
+## 🛠 Tech Stack
 
-I enjoy working across the full development lifecycle: understanding a problem, designing the implementation, building it, debugging edge cases, deploying it, and supporting it afterward.
+### Frontend
 
-I care particularly about:
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-- Clean and maintainable code
-- Database correctness and concurrency
-- API and integration reliability
-- Authentication and authorization
-- Production debugging
-- Performance and scalability
-- Understanding the code I ship
+### Backend
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
-## 📈 Current Focus
+## 📌 Featured Projects
 
-I'm currently deepening my experience with:
+### 🛒 Production Marketplace Platform
+Contributed to a live production marketplace by implementing modern features, API integrations, responsive UI improvements, production debugging, and ongoing system enhancements while maintaining compatibility with the existing platform.
 
-- Production TypeScript and Next.js
-- PostgreSQL and database design
-- Multi-tenant application architecture
-- Background jobs and reliable asynchronous processing
-- AI-assisted software development
-- Cloud and edge infrastructure
+### 💬 Real-Time Messaging System
+Built and improved messaging functionality including attachments, pagination, user blocking, and a modern chat experience.
+
+### 💳 Subscription & Billing Features
+Implemented Stripe subscription workflows, gated registration, profile completion, daily posting limits, and automated refund handling.
+
+### 📊 Dashboard & Internal Tools
+Developed responsive dashboards, admin interfaces, and business tools with a focus on usability, maintainability, and performance.
 
 ---
 
@@ -147,8 +96,27 @@ I'm currently deepening my experience with:
 
 ---
 
-## 🤝 Connect
+## 🎯 Current Focus
 
-**Portfolio:** https://mjrevportfolio.vercel.app/
+- 🚀 Building production-ready web applications
+- ⚛️ React & Next.js development
+- 🔗 API integrations and backend services
+- 📱 Responsive UI & user experience
+- 🤖 Leveraging AI tools to improve development workflows
+- ⚡ Performance optimization and scalable architecture
 
-I'm open to long-term full-stack engineering opportunities where I can take ownership of production systems and continue growing technically.
+---
+
+## 💡 Philosophy
+
+> *"Build solutions that are maintainable, scalable, and deliver real value to users."*
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in collaborating on web applications, SaaS products, AI-assisted development, and challenging full stack projects.
+
+🌐 **Portfolio:** https://mjrevportfolio.vercel.app/
+
+⭐ Thanks for visiting my profile!
